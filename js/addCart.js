@@ -73,6 +73,7 @@ function viewcart() {
           <th>Đơn giá</th>
           <th>Số lượng</th>
           <th>Thành tiền</th>
+          <th>Chi tiết</th>
         </tr>
       </thead>
         `
